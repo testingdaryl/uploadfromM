@@ -1096,6 +1096,19 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-tg9cPuIwIj {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-tg9cPuIwIj .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tg9cPuIwIj .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r78dmiHQK6 {
   padding-top: 15px;
   padding-bottom: 15px;
