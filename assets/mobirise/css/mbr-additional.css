@@ -11,11 +11,11 @@ body {
 }
 .display-2 {
   font-family: 'Karla', sans-serif;
-  font-size: 2.6rem;
+  font-size: 2.4rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.16rem;
+  font-size: 3.84rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -53,9 +53,9 @@ body {
     line-height: calc( 1.4 * (2.54rem + (5.4 - 2.54) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.08rem;
-    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.92rem;
+    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1078,17 +1078,17 @@ section.lazy-placeholder:after {
 .cid-trZhFjxyzO {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-trZhFjxyzO .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-trZhFjxyzO H2 {
   text-align: center;
-  color: #ffffff;
+  color: #232323;
 }
 .cid-trZaWbvJvB {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1101,7 +1101,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZdHYM2oO {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1114,7 +1114,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZmksvNmZ {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1127,7 +1127,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZaVQlFEo {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1140,7 +1140,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZnlUJyye {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 45px;
 }
@@ -1215,16 +1215,16 @@ section.lazy-placeholder:after {
 .cid-trZhHOn3bj {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-trZhHOn3bj .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-trZhHOn3bj H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-trZedS7WH0 {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 45px;
 }
@@ -1260,16 +1260,16 @@ section.lazy-placeholder:after {
 .cid-trZhEb5ky2 {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-trZhEb5ky2 .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-trZhEb5ky2 H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-trZdoZ69z2 {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 45px;
 }
@@ -1334,16 +1334,16 @@ section.lazy-placeholder:after {
 .cid-trZgBZWyCE {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-trZgBZWyCE .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-trZgBZWyCE H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-trZdHEIhSa {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1356,7 +1356,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZmjKc3KZ {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1369,7 +1369,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZmk7GkAy {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1382,7 +1382,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZmkR6TwM {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1395,7 +1395,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZluiz36U {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1408,7 +1408,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZnADsdgz {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1421,7 +1421,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-trZkMKxjhD {
-  background: #6d7173;
+  background: #ffffff;
   padding-top: 15px;
   padding-bottom: 90px;
 }
